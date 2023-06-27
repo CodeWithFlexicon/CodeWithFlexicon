@@ -1,8 +1,7 @@
 ### <h1 align="center">Hello there! 👋 I'm Felix Chen</h1>
-<h3 align="center">An aspiring Software Engineer</h3>
+<h3 align="center">Full Stack Software Engineer</h3>
 
 - 🌎 - I'm from the United States of America
-- 📚 - Currently obtaining my BS in Computer Science at CUNY CSI
 - 🤔 - Currently learning **Android Studio, Kotlin, Dart, Flutter**
 
 <h3 align="left">Languages and Tools:</h3>
