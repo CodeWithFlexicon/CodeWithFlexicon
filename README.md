@@ -6,20 +6,21 @@
 
 <h4 align="left">Languages</h4>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"> </a>
-<a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"> </a>
+<a href="https://cplusplus.com/" target="_blank" rel="noreferrer" title="C++"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
+[
 </p>
 
 <h4 align="left">FrontEnd</h4>
 <p align="left"> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="40" height="40"> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="40" height="40"> </a>
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"> </a>
-<a href="https://vitejs.dev/" target="_blank" rel="norefferer"> <img src="https://skillicons.dev/icons?i=vite" alt="vitejs" width="40" height="40"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer" title="Reactjs"> <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="40" height="40"> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Nextjs"> <img src="https://skillicons.dev/icons?i=next" alt="nextjs" width="40" height="40"> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer" title="Nodejs"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"> </a>
+<a href="https://vitejs.dev/" target="_blank" rel="norefferer" title="Vitejs"> <img src="https://skillicons.dev/icons?i=vite" alt="vitejs" width="40" height="40"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" rel="noreferrer" title="HTML"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="40" height="40"/> </a> 
 </p>
 
 <h4 align="left">BackEnd</h4>
@@ -34,19 +35,19 @@
 
 <h4 align="left">Tools</h4>
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="40" height="40"> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"> </a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linuxUbuntu" width="40" height="40"> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="VSCode"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"> </a>
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer" title="Visual Studio"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="40" height="40"> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer" title="LinuxUbuntu"> <img src="https://skillicons.dev/icons?i=linux" alt="linuxUbuntu" width="40" height="40"> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"> </a>
 </p>
 
 <h4 align="left">Experimenting</h4>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer" title="AndroidStudio"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer" title="Kotlin"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> 
+<a href="https://dart.dev/" target="_blank" rel="noreferrer" title="Dart"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> 
 </p>
 
 <p align="center">
