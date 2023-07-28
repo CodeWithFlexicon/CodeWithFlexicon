@@ -9,7 +9,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"> </a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer" title="C++"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> 
-[
 </p>
 
 <h4 align="left">FrontEnd</h4>
