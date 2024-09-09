@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 
 - 🌎 - I'm from the United States of America
-- 🤔 - Currently learning **React.js, Express.js, Node.js, PostgreSQL, Sequelize.js, AWS, Next.js**
+- 🤔 - Currently focusing on **PHP, Docker, Git, HTML/CSS, JavaScript, Data Structures & Algorithms**
 
 <h4 align="left">Languages</h4>
 <p align="left">
@@ -39,14 +39,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" title="LinuxUbuntu"> <img src="https://skillicons.dev/icons?i=linux" alt="linuxUbuntu" width="40" height="40"> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"> </a>
-</p>
-
-<h4 align="left">Experimenting</h4>
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer" title="AndroidStudio"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer" title="Kotlin"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer" title="Dart"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> 
 </p>
 
 <p align="center">
