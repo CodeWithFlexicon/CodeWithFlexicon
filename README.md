@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Software Engineer</h3>
 
 - 🌎 - I'm from the United States of America
-- 🤔 - Currently focusing on **PHP, Docker, Git, HTML/CSS, JavaScript, Data Structures & Algorithms**
+- 🤔 - Currently focusing on **Java, Spring Boot, Docker, Git, HTML/CSS/React, JavaScript/TypeScript, Data Structures & Algorithms**
 
 <h4 align="left">Languages</h4>
 <p align="left">
