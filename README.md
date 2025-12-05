@@ -29,7 +29,7 @@
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer" title="Sequelizejs"> <img src="https://skillicons.dev/icons?i=sequelize" alt="sequelizejs" width="40" height="40"> </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL"> <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="40" height="40"> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"> </a>
+<!-- <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"> </a> -->
 </p>
 
 <h4 align="left">Tools</h4>
